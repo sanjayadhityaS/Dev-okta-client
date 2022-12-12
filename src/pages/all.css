@@ -1,0 +1,40 @@
+.opblock-summary {
+    /* align-items: center; */
+    /* cursor: pointer; */
+    display: flex;
+    padding: 100px; 
+    /* border-style: dotted; */
+    padding: 1px 1px 1px 1px;
+    margin: 100px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+th{
+    width: 40%;
+}
+
+.patopblock-summary{
+    display: flex;
+    padding: 100px; 
+    
+    padding: 1px 1px 1px 1px;
+    margin: 100px;
+    margin-top: 50px;
+    margin-bottom: -45px;
+    text-align: left; 
+}
+
+.responseTable{
+    /* margisn: 100px; */
+    /* padding: 1px 1px 1px 1px; */
+    /* margin-left: 20px; */
+    text-align: left;
+}
+
+/* .thead{
+    padding: 20px;
+} */
+/* .td{
+    padding: 20px;
+} */
+
